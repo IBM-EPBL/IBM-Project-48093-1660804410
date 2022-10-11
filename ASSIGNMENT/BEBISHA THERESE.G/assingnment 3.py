@@ -1,0 +1,42 @@
+Python 2.7 (r27:82525, Jul  4 2010, 09:01:59) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> from gpiozero import LED
+red=LED(22)
+red.blink()
+from gpiozero import LED
+red=LED(22)
+yellow=LED(27)
+green=LED(17)
+red.blink(1,1)
+yellow.blink(2,2)
+green.blink(3,3)
+from gpiozero import LED
+from time import sleep
+red=LED(22)
+yellow=LED(27)
+green=LED(17)
+red.on()
+sleep(1)
+yellow.on()
+sleep(1)
+green.on()
+sleep(1)
+red.off()
+sleep(1)
+yellow.off()
+sleep(1)
+green.off()
+sleep(1)
+while True:
+    red.on()
+    sleep(1)
+    yellow.on()
+    sleep(1)
+    green.on()
+    sleep(1)
+    red.off()
+    sleep(1)
+    yellow.off()
+    sleep(1)
+    green.off()
+    sleep(1)

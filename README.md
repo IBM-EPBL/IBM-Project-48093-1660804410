@@ -39,13 +39,9 @@ ASSIGNMENT 4
 | TEAM MEMBERS     | LINK
 |------------------|
 |BEBISHA THERESE.G |
-|------------------|
 |FATHIMA REHANA.M  |
-|------------------|
 |KANCHANA.B.J      |
-|------------------|
 |ABITHA.K          |
-|------------------|
 
 # PROJECT DESIGNING AND PLANNING
 

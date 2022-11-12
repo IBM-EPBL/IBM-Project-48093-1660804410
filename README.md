@@ -1,6 +1,6 @@
-# IBM-Project-48093-1660804410
+                                                     # IBM-Project-48093-1660804410
 
-## Personal Assistance for Seniors Who Are Self-Reliant
+                                          ## Personal Assistance for Seniors Who Are Self-Reliant
 
 TECHNOLOGY:IOT
 
@@ -16,4 +16,12 @@ Team member : KANCHANA B J
 
 Team member : ABITHA K
 
-# SOFTWARE REQUIRED
+## :computer:SOFTWARE REQUIRED
+
+Python IDLE
+
+## :computer:SYSTEM REQUIRED
+
+RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
+
+## ASSINGNMENT FINISHED

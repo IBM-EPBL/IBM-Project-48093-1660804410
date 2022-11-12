@@ -38,10 +38,10 @@ ASSIGNMENT 4
 
 | TEAM MEMBERS     |      LINK                                                                                                        |
 |-----------------:|------------------------------------------------------------------------------------------------------------------|
-| BEBISHA THERESE.G|  [Click Here](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/BEBISHA%20THERESE.G)!|
-|  FATHIMA REHANA.M|                  
-|      KANCHANA.B.J|                  
-|          ABITHA.K|                  
+| BEBISHA THERESE.G|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/BEBISHA%20THERESE.G)|
+|  FATHIMA REHANA.M|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/FATHIMA%20REHANA.M) |                
+|      KANCHANA.B.J|  [CLICK HERE!](                
+|          ABITHA.K|  [CLICK HERE!](                
 
 # PROJECT DESIGNING AND PLANNING
 

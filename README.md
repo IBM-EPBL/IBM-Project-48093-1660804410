@@ -1,6 +1,6 @@
-                                                     # IBM-Project-48093-1660804410
+   # IBM-Project-48093-1660804410
 
-                                          ## Personal Assistance for Seniors Who Are Self-Reliant
+   ## Personal Assistance for Seniors Who Are Self-Reliant
 
 TECHNOLOGY:IOT
 

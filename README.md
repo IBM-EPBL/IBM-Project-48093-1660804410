@@ -27,13 +27,16 @@ RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
 ## ASSINGNMENT FINISHED
 
 ASSIGNMENT 1
+
 ASSIGNMENT 2
+
 ASSIGNMENT 3
+
 ASSIGNMENT 4
 
 ## LINKS
 
-|## TEAM MEMBERS   |## LINK
+| TEAM MEMBERS     | LINK
 |------------------|
 |BEBISHA THERESE.G |
 |------------------|
@@ -49,8 +52,11 @@ ASSIGNMENT 4
 ## IDEATION PHASE
 
 Liturature Survey
+
 Problem Statement
+
 Empathy Map
+
 Brainstorm
 
 ## DESIGN PHASE
@@ -58,25 +64,34 @@ Brainstorm
 ## DESIGN PHASE 01
 
 Propose Solution
+
 Problem-Solution Fit
+
 Solution Architecture
 
 ## DESIGN PHASE 02
 
 Solution Requirment
+
 Customer Journy Map
+
 Data Flow Diagrams
+
 technology Stack
 
 ## PLANNING PHASE
 
 Milestone And Activity List
+
 Sprint Delivery Plan
 
 ## PROJECT DEVELOPMET
 
 Sprint 01
+
 Sprint 02
+
 Sprint 03
+
 Sprint 04
 

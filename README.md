@@ -16,25 +16,25 @@ Team member : KANCHANA B J
 
 Team member : ABITHA K
 
-## :computer:SOFTWARE REQUIRED
+## :computer: SOFTWARE REQUIRED
 
-Python IDLE
+- Python IDLE
 
-## :computer:SYSTEM REQUIRED
+## :computer: SYSTEM REQUIRED
 
-RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
+- RAM-Minimum 4GB Processor-Min. Configuration OS-Windows/Linux/MAC
 
-## ASSINGNMENT FINISHED
+## :memo::pencil: ASSINGNMENT FINISHED
 
-ASSIGNMENT 1
+:heavy_check_mark: ASSIGNMENT 1
 
-ASSIGNMENT 2
+:heavy_check_mark: ASSIGNMENT 2
 
-ASSIGNMENT 3
+:heavy_check_mark: ASSIGNMENT 3
 
-ASSIGNMENT 4
+:heavy_check_mark: ASSIGNMENT 4
 
-## LINKS
+## :link: LINKS
 
 | TEAM MEMBERS     |      LINK                                                                                                        |
 |-----------------:|------------------------------------------------------------------------------------------------------------------|
@@ -45,49 +45,49 @@ ASSIGNMENT 4
 
 # PROJECT DESIGNING AND PLANNING
 
-## IDEATION PHASE
+## :dart: IDEATION PHASE
 
-Liturature Survey
+:diamond_shape_with_a_dot_inside: Liturature Survey
 
-Problem Statement
+:diamond_shape_with_a_dot_inside: Problem Statement
 
-Empathy Map
+:diamond_shape_with_a_dot_inside: Empathy Map
 
-Brainstorm
+:diamond_shape_with_a_dot_inside: Brainstorm
 
-## DESIGN PHASE
+## :memo::pencil:DESIGN PHASE
 
-## DESIGN PHASE 01
+## :hammer_and_pick: DESIGN PHASE 01
 
-Propose Solution
+:large_blue_diamond: Propose Solution
 
-Problem-Solution Fit
+:large_blue_diamond: Problem-Solution Fit
 
-Solution Architecture
+:large_blue_diamond: Solution Architecture
 
-## DESIGN PHASE 02
+## :hammer_and_pick: DESIGN PHASE 02
 
-Solution Requirment
+:pushpin: Solution Requirment
 
-Customer Journy Map
+:pushpin: Customer Journy Map
 
-Data Flow Diagrams
+:pushpin: Data Flow Diagrams
 
-technology Stack
+:pushpin: technology Stack
 
-## PLANNING PHASE
+## :books: PLANNING PHASE
 
-Milestone And Activity List
+:pen: Milestone And Activity List
 
-Sprint Delivery Plan
+:pen: Sprint Delivery Plan
 
-## PROJECT DEVELOPMET
+## :nazar_amulet: PROJECT DEVELOPMET
 
-Sprint 01
+:page_with_curl: Sprint 01
 
-Sprint 02
+:page_with_curl: Sprint 02
 
-Sprint 03
+:page_with_curl: Sprint 03
 
-Sprint 04
+:page_with_curl: Sprint 04
 

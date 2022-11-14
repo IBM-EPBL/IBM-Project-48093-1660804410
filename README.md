@@ -41,7 +41,27 @@ Team member : ABITHA K
 | BEBISHA THERESE.G|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/BEBISHA%20THERESE.G)|
 |  FATHIMA REHANA.M|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/FATHIMA%20REHANA.M) |                
 |      KANCHANA.B.J|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/kanchana%20b%20j)   |               
-|          ABITHA.K|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/ABITHA.K)           |                
+|          ABITHA.K|  [CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-48093-1660804410/tree/main/ASSIGNMENT/ABITHA.K)           |
+
+## :paperclip: PRE-REQUISITES
+
+:pushpin: IBM Cloud Services
+
+:pushpin: Software
+
+## :black_nib:	CREATE AND CONFIGURE IBM CLOUD SERVICES
+
+:sparkle: Create IBM Watson IoT Platform & Device
+
+:sparkle: Create IBM Watson IoT Platform & Device
+
+:sparkle: Create A Database In Cloudant DB
+
+## :hammer_and_pick:	DEVELOP WEB APPLICATION USING NODE-RED SERVICES
+
+:eight_pointed_black_star:	Create A Form
+
+:eight_pointed_black_star:	Write A Function To Compare The Time
 
 # PROJECT DESIGNING AND PLANNING
 
